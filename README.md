@@ -1,2 +1,2 @@
 # mi_informe_pedidos
-Personalización del informe de pedidos de compra en xls.
+Plugin que personaliza el listado de pedido de compras en xls para que salgan todas las líneas de cada pedido.
