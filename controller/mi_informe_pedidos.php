@@ -141,7 +141,7 @@ class mi_informe_pedidos extends informe_albaranes
                                 // 're' => $doc->totalrecargo,
                                 // 'irpf' => $doc->totalirpf,
                                 // 'total' => $doc->total,
-                                'Fecha deseada' => '',
+                                'Fecha deseada' => $doc->fechasalida,
                                 'Ref' => $referencia,
                                 'Q'=> $cantidad,
                                 );
